@@ -1,0 +1,91 @@
+img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+p{
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.outer-card{
+  height: 300px;
+  width: 460px;
+  /* background-color: blue; */
+  vertical-align: top;
+  border-style: solid;
+  border-color: rgb(96,96,96);
+  border-width: 1px;
+}
+
+.thumbnail-div{
+  display: inline-block;
+  /* background-color: red; */
+  height: 100%;
+  width: 200px;
+  vertical-align: top;
+}
+
+.instruct-div{
+  display: inline-block;
+  /* background-color: green; */
+  height: 100%;
+  width: 250px;
+}
+.thumbnail-1-div{
+  /* background-color: blueviolet; */
+  height: 90px;
+  width: 180px;
+  margin-left:9px ;
+  margin-top: 7px;
+  margin-bottom: 7px;
+}
+.thumbnail-2-div{
+  /* background-color: blueviolet; */
+  height: 90px;
+  width: 180px;
+  margin-left:9px ;
+  margin-bottom: 7px;
+
+}
+.thumbnail-3-div{
+  /* background-color: blueviolet; */
+  height: 90px;
+  width: 180px;
+  margin-left:9px ;
+}
+
+.instruct-div-1{
+  /* background-color: blueviolet; */
+  height: 90px;
+  width: 230px;
+  margin-left: 3px;
+  margin-top: 7px;
+}
+
+.instruct-div-2{
+
+}
+
+.instruct-div-3{
+
+}
+.title{
+  font-size: 14px;
+  font-weight: bold;
+  line-height: 20px;
+  margin-top: 5px;
+}
+.author{
+  font-size: 13px;
+  color: rgb(96,96,96);
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.stats{
+  font-size: 13px;
+  color: rgb(96,96,96);
+  
+}
+

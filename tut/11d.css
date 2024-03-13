@@ -1,0 +1,19 @@
+.outer-div{
+  /* background-color: aqua; */
+  display: grid;
+  grid-template-columns: 200px 160px 160px;
+  column-gap: 15px;
+}
+.div-1{
+  /* background-color: red; */
+  display: grid;
+  grid-template-columns: 200px;
+}
+.mutual-div{
+  display: grid;
+  grid-template-columns: 30px 1fr;
+  column-gap: 5px;
+}
+.profile{
+  width: 100%;
+}
